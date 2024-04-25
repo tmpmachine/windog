@@ -1,0 +1,19 @@
+{
+  "name": "@tmp7/windog",
+  "version": "1.0.0",
+  "description": "Browser window alert, prompt, and confirm alternative using HTML dialog and template.",
+  "main": "windog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmpmachine/windog.git"
+  },
+  "author": "tmpmachine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tmpmachine/windog/issues"
+  },
+  "homepage": "https://github.com/tmpmachine/windog#readme"
+}
